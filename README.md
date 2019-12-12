@@ -8,6 +8,8 @@ This codebase can be used to reproduce the results of HuggingFace's participatio
 
 This model can be trained in about one hour on a 8 V100 cloud instance (currently costs about $25) and a pre-trained model is also made available.
 
+We have implemented this chatbot using the pretained model. Jorge Lopez.
+
 ## Installation
 
 To install and use the training and inference scripts please clone the repo and install the requirements:
